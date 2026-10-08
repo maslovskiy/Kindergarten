@@ -1,5 +1,8 @@
 # Foundation: entry point
 
+> **Owner rule (2026-10-08): where the kickoff brief conflicts with the installed Matt Pocock skills, the skills win.**
+> So discovery is tracked as a `/wayfinder` map on GitHub issues. That map replaces `roadmap.md`, `decisions.md`, `open-questions.md` and `handoff.md`, which stay only as input for charting it and are deleted once the map exists. Grilling follows the `grilling` skill's round format. `product-context.md` remains as the record of the brief. `GLOSSARY.md` and `docs/adr/` stay at the repo root.
+
 Discovery and architecture work for a multi-tenant SaaS platform for private kindergartens. This folder is the **source of truth** between sessions and agents. Do not rely on chat history.
 
 ## Current state
